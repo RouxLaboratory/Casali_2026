@@ -15,9 +15,8 @@ These shared scripts permit to:
 (1) To run MouseBreathmetrics:
 MathWorks Matlab (>2018b) is required to run the scripts. Scripts have been tested using Microsoft Windows 10. No special hardware is required. 
 Yet, you need the buzcode-master (https://github.com/buzsakilab/buzcode) in your Matlab path and the Matlab Signal Processing Toolbox installed.
-First unzip the '3C060-S16' file in the RawData folder, make sure the unzipped version get stored directly in the RawData folder.
 
-To extract respiration raw data, inspect the signal and perform individual cycle extraction, please add the folder 
+To extract respiration raw data, inspect the signal and perform individual cycle extraction, add the folder 
 "\MouseBreathMetricsMaster" to your Matlab path and follow the instructions in the script called "TestRespiratorySignal" of this GitHub directory
 
 Briefly, TestRespiratorySignal.m is the main wrapper script. 
