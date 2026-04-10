@@ -48,7 +48,7 @@ DataFromStateBlind = PrepareBmObjForCnnPrediction(StateBlindSniffing.bmObj,state
 % Now use the Data.mat file saved from "PrepareBmObjForCnnPrediction" to
 % perform cycle prediction.
 
-disp("Now open Jupyter Notebook and Run 'RespirationBasedStatePrediction'")
+disp("Now open Jupyter Notebook and Run 'RespirationBasedStatePrediction', then press 'continue'")
 keyboard
 %% 6) Examine the Predition from the CNN.
 load  CNN_Prediction
@@ -98,6 +98,8 @@ PlotIntervals(CNN_Prediction.predicted_wake,'Color','b','alpha',0.3);
 PlotIntervals(CNN_Prediction.predicted_nrem,'Color','r','alpha',0.3);
 PlotIntervals(CNN_Prediction.predicted_rem,'Color',rgb('orange'),'alpha',0.3);
 xlim([min(StateBlindSniffing.SniffIntToUse(:)),max(StateBlindSniffing.SniffIntToUse(:))])
+
+disp("Done!")
 
 
 
