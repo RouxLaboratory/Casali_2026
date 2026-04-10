@@ -48,6 +48,8 @@ DataFromStateBlind = PrepareBmObjForCnnPrediction(StateBlindSniffing.bmObj,state
 % Now use the Data.mat file saved from "PrepareBmObjForCnnPrediction" to
 % perform cycle prediction.
 
+disp("Now open Jupyter Notebook and Run 'RespirationBasedStatePrediction'"
+keyboard
 %% 6) Examine the Predition from the CNN.
 load  CNN_Prediction
 
