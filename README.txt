@@ -1,4 +1,5 @@
 This README is a short introduction to the analytical pipeline used in the paper "Respiratory pauses highlight sleep architecture in mice" - Casali et al., 2026, Nature Communications.
+
 For technical info please contact 
 Dr. Giulio Casali (giulio.casali.pro@gmail.com)
 Tim Gervois (tim.gervois@u-bordeaux.fr)
