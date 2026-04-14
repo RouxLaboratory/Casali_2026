@@ -1,10 +1,10 @@
 This README is a short introduction to the analytical pipeline used in the paper "Respiratory pauses highlight sleep architecture in mice" - Casali et al., 2026, Nature Communications.
 
 For technical info please contact 
-Dr. Giulio Casali (giulio.casali.pro@gmail.com)
-Tim Gervois (tim.gervois@u-bordeaux.fr)
-Dr. Nicolas Chenouard (nicolas.chenouard@gmail.com /  nicolas.chenouard@inserm.fr)
-Dr. Lisa Roux (lisa.roux@u-bordeaux.fr )
+Dr. Giulio Casali (giulio.casali.proATgmail.com)
+Tim Gervois (tim.gervoisATu-bordeaux.fr)
+Dr. Nicolas Chenouard (nicolas.chenouardATgmail.com /  nicolas.chenouardATinserm.fr)
+Dr. Lisa Roux (lisa.rouxATcnrs.fr )
 
 These shared scripts permit to:
 (1) study respiration and specifically pauses embedded within respiratory cycles;
