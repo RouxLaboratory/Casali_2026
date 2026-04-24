@@ -14,6 +14,9 @@ These shared scripts permit to:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 (1) To run MouseBreathmetrics:
+
+Unzip the "3C060-S16" file in the "RawData" directory.
+
 MathWorks Matlab (>2018b) is required to run the scripts. Scripts have been tested using Microsoft Windows 10. No special hardware is required. 
 Yet, you need the buzcode-master (https://github.com/buzsakilab/buzcode) in your Matlab path and the Matlab Signal Processing Toolbox installed.
 
